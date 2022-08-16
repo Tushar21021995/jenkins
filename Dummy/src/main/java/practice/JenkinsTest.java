@@ -24,6 +24,7 @@ public class JenkinsTest
 		String Url = prob.getProperty("url");
 		driver.get(Url);
 		System.out.println("Welcome to jenkins");
+		System.out.println("Dummy Project");
 		
 	}
 }
