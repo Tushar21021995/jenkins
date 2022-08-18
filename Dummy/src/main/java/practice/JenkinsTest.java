@@ -27,6 +27,7 @@ public class JenkinsTest
 		System.out.println("Dummy Project");
 		System.out.println("welcome ");
 		System.out.println("Pull Request");
+		System.out.println("Pull request for dummy");
 		
 		
 	}
