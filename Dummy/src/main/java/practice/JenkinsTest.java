@@ -28,6 +28,8 @@ public class JenkinsTest
 		System.out.println("welcome ");
 		System.out.println("Pull Request");
 		System.out.println("Pull request for dummy");
+		System.out.println("Pull request for practice");
+		
 		
 		
 	}
