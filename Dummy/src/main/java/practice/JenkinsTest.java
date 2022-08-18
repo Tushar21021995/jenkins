@@ -26,6 +26,8 @@ public class JenkinsTest
 		System.out.println("Welcome to jenkins");
 		System.out.println("Dummy Project");
 		System.out.println("welcome ");
+		System.out.println("Pull Request");
+		
 		
 	}
 }
