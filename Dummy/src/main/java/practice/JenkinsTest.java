@@ -29,6 +29,7 @@ public class JenkinsTest
 		System.out.println("Pull Request");
 		System.out.println("Pull request for dummy");
 		System.out.println("Pull request for practice");
+		System.out.println("git hub");
 		
 		
 		
